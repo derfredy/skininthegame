@@ -1,5 +1,7 @@
 # skininthegame
 
+![Super Hero](superheroe?raw=true "Skin in the game")
+
 ## Inspiration
 
 We have been inspired by Cryptopunks.
