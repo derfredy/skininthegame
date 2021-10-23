@@ -27,3 +27,7 @@ It is possible to create web3 applications without code. We should share this le
 ## What's next for Skin in the game club
 
 We want to create a hall of fame. This could identify yourself as an staker to receive airdrops, investment opportunities, and so much more!
+
+## Check it out here:
+
+[https://skininthegame.club](https://skininthegame.club)
