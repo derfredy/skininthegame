@@ -1,6 +1,6 @@
 # skininthegame
 
-![Super Hero](superheroe?raw=true "Skin in the game")
+![Super Hero](superheroe.png?raw=true "Skin in the game")
 
 ## Inspiration
 
