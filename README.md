@@ -1,7 +1,10 @@
-# Skin in the game
-### ( ...a very exclusive club for ETH Stakers )
+# Skin in the Game
 
 ![Super Hero](superheroe.png?raw=true "Skin in the game")
+
+#### ( ...a very exclusive club for ETH Stakers )
+
+
 
 ## Inspiration
 
