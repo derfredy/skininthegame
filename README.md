@@ -1,4 +1,5 @@
-# skininthegame
+# Skin in the game
+### ( ...a very exclusive club for ETH Stakers )
 
 ![Super Hero](superheroe.png?raw=true "Skin in the game")
 
